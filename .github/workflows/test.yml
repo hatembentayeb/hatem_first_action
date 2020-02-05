@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: test action
-      uses: hatembentayeb/hatem_first_action@master
+      uses: hatembentayeb/hatem_first_action
       with:
         devops: "dev and ops conbination hhhh"
         
